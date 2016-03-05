@@ -1,0 +1,14 @@
+layout_spectrum: 0.1371921
+typography_spectrum: 0.384343
+color:
+  saturation: 0.5241971
+  lightness: 0.1208322
+  brandStrength: 0.49392
+  rhythmicContrast: 0.9395795
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: runwhatyabrung
