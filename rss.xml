@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[runwhatyabrung]]></title>
         <description><![CDATA[runwhatyabrung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/runwhatyabrung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:36:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 22:11:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/runwhatyabrung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8de54ba-9f44-417f-9631-b6571170287f.png">]]></description>
+            <link>https://thegrid.ai/runwhatyabrung/9302b15a-f2dc-4ce2-a7b2-e34fe0eeaee6/index.html</link>
+            <guid isPermaLink="false">9302b15a-f2dc-4ce2-a7b2-e34fe0eeaee6</guid>
+            <pubDate>Sat, 05 Mar 2016 22:11:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c626f048-e890-43da-815a-ab9cf815cb55.png">]]></description>
-            <link>undefined98bae997-41f3-4b11-84e2-71a57f628cad/index.html</link>
+            <link>https://thegrid.ai/runwhatyabrung/98bae997-41f3-4b11-84e2-71a57f628cad/index.html</link>
             <guid isPermaLink="false">98bae997-41f3-4b11-84e2-71a57f628cad</guid>
             <pubDate>Sat, 05 Mar 2016 20:35:37 GMT</pubDate>
         </item>
